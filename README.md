@@ -11,3 +11,5 @@
 - Linux repo commits analysis, in analysis we get the most productive year in terms of commits within the python project. We also get to see the most productive contributers. Guess who's the most productive one ?
 
 - Housing dataset from kaggle competition, this kernel includes data **imputation** and a basic introduction **XGBoost**.
+
+- Airplanes dataset analysis with pyspark.
